@@ -1,0 +1,46 @@
+.cockatoo {
+    width: 300px;
+    height: auto;
+}
+.card {
+    width: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+    padding: 5px;
+    padding-top: 5px;
+    box-shadow: 8px 8px lightgray;  
+}
+
+.inner-card {
+    width: 280px;
+    border: 1px solid lightgray;
+    padding: 0 10px 0 10px;
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+body {
+    font-size: large;
+    width: 600px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.description {
+    font-style: italic;
+}
+
+li {
+    list-style: none;
+    text-align: left;
+}
+li span {
+    font-weight: bold;
+}
+ul {
+    padding: 0;
+}
